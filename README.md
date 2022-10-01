@@ -10,7 +10,7 @@ Projeto realizado junto ao curso de HTML e CSS da [Alura](https://cursos.alura.c
 | :fire: Desafio     | -
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](https://github.com/arthursantos1/vitrine-Barbearia-alura/blob/main/Barbearia%20alura.png#vitrinedev)
 
 ## Detalhes do projeto
 
