@@ -6,7 +6,7 @@ Projeto realizado junto ao curso de HTML e CSS da [Alura](https://cursos.alura.c
 | -------------  | --- |
 | :sparkles: Nome        | **Barbearia Alura**
 | :label: Tecnologias | HTML, CSS
-| :rocket: URL         | https://url-deploy.com.br
+| :rocket: URL         | -
 | :fire: Desafio     | -
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
